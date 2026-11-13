@@ -1,0 +1,7 @@
+# Release binaries are attached to GitHub releases, never committed.
+# The publish script stages a copy here and uploads it as a release asset.
+*.apk
+*.aab
+*.idsig
+
+.DS_Store
