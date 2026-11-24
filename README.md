@@ -1,6 +1,6 @@
-# Safe Chat — релизы для Android
+# orb — релизы для Android
 
-Публичный репозиторий с готовыми сборками приложения **Safe Chat**
+Публичный репозиторий с готовыми сборками приложения **orb**
 (`com.safechat.app`). Исходный код приложения приватный; здесь лежат только
 бинарники релизов.
 
@@ -8,9 +8,9 @@
 
 ## Последняя версия
 
-- Страница релизов: <https://github.com/darqus/safe-chat-releases/releases/latest>
+- Страница релизов: <https://github.com/darqus/orb-releases/releases/latest>
 - Прямая ссылка на APK:
-  <https://github.com/darqus/safe-chat-releases/releases/latest/download/safe-chat.apk>
+  <https://github.com/darqus/orb-releases/releases/latest/download/safe-chat.apk>
 
 ## Установка
 
